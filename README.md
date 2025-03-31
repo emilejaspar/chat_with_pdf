@@ -1,2 +1,2 @@
 # chat_with_pdf
-Chat with PDF
+based on : https://github.com/hasan-py/chat-with-pdf-RAG/tree/main
